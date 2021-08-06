@@ -1,0 +1,20 @@
+a) How you have implemented the scraper, what challenges you faced and how did you solve them?
+ans= actually i dont know about how to make csv file but litrally from your task i learned lot and i found some information on google and i made csv file.
+(b) What else you could do to improve your scraper?
+ans=i want to improve my self becuse you want data till december but honestly i worked hard but i dont get data upto december,i am working on that. 
+(c) How would you design it to make it work on other retailers as well?
+ans= same like this scrap, i make project in data science how does recommend the product on basis of customer purchase history or giving rating.
+
+
+thanks , dear sir i dont mind, if you dont give me any opportunity to work with you then honestly speaking i learned something from you. 
+
+
+
+i follwed method during scrapping
+Step 1: Find the URL that you want to scrape
+Step 2: Get the source HTML code as text
+Step 3: Convert that text into a bs4 lxml object
+Step4: Decide/Identify the tags
+Step5: Get the value(s) present in each tag into a list/tuple/dictionary
+Step6: Create a data frame out of the final list and name the columns as cust_name, review_title, review_description, review_date, and star_rating.
+
